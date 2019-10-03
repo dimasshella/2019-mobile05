@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StarterChapter05</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textDips">A dip is an upper-body strength exercise. Narrow, shoulder-width dips primarily train the triceps, with major synergists being the anterior deltoid, the pectoralis muscles (sternal, clavicular, and minor), and the rhomboid muscles of the back (in that order).[1] Wide arm training places additional emphasis on the pectoral muscles, similar in respect to the way a wide grip bench press would focus more on the pectorals and less on the triceps.</string>
+    <string name="textPushups">The handstand push-up(press-up) - also called the vertical push-up(press-up) also called "commandos"-is a type of push-up exercise where the body is positioned in a handstand. To prepare the strength until one has built adequate balance.</string>
+    <string name="textHandstand">A handstand is the act of supporting the body in a stable, inverted vertical position by balancing on the hands. In a basic handstand the body is held straight with arms and legs fully extended, with hands spaced approximately shoulder-width apart and the legs together. There are many variations of handstands, all of which require the performer to possess adequate balance and upper body strength.</string>
 </resources>
